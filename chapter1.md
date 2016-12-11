@@ -1,4 +1,4 @@
-### Part 1 - The Idea
+# The Idea
 
 One of the first things we ask YC companies is what they’re building and why.
 

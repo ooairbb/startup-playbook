@@ -1,4 +1,4 @@
-### Part 4B -  Execution: Focus & Intensity
+# Execution: Focus & Intensity
 
 If I had to distill my advice about how to operate down to only two words, I’d pick focus and intensity. These words seem to really apply to the best founders I know.
 

@@ -1,4 +1,4 @@
-### Part 2 - A Great Team
+# A Great Team
 
 Mediocre teams do not build great companies. One of the things we look at the most is the strength of the founders. When I used to do later-stage investing, I looked equally hard at the strength of the employees the founders hired.
 

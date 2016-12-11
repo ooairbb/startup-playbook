@@ -1,4 +1,4 @@
-### Closing Thoughts
+# Closing Thought
 
 Remember that at least a thousand people have every great idea. One of them actually becomes successful. The difference comes down to execution. It’s a grind, and everyone wishes there were some other way to transform “idea” into “success”, but no one has figured it out yet.
 

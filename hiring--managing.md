@@ -1,4 +1,4 @@
-### Part 4D - Execution: Hiring & Managing
+# Execution: Hiring & Managing
 
 Hiring is one of your most important jobs and the key to building a great company \(as opposed to a great product.\)
 

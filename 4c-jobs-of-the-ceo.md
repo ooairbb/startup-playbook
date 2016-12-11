@@ -1,6 +1,4 @@
-### Part 4C - Execution: Jobs of the CEO
-
-[Table of Contents](http://playbook.samaltman.com/#toc)
+# Execution: Jobs of the CEO
 
 Earlier I mentioned that the only universal job description of the CEO is to make sure the company wins. Although that’s true, I wanted to talk a little more specifically about how a CEO should spend his or her time.
 

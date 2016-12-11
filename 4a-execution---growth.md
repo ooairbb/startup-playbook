@@ -1,4 +1,4 @@
-### Part 4A - Execution: Growth
+# Execution: Growth
 
 Growth and momentum are the keys to great execution. Growth \(as long as it is not “sell dollar bills for 90 cents” growth\) solves all problems, and lack of growth is not solvable by anything but growth. If you’re growing, it feels like you’re winning, and people are happy. If you’re growing, there are new roles and responsibilities all the time, and people feel like their careers are advancing. If you’re not growing, it feels like you’re losing, and people are unhappy and leave. If you’re not growing, people just fight over responsibilities and blame.
 

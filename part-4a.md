@@ -1,4 +1,4 @@
-### Part 4 - Great Execution
+# Great Execution
 
 Although it’s necessary to build a great product, you’re not done after that. You still have to turn it into a great company, and you have to do it yourself—the fantasy of hiring an “experienced manager” to do all this work is both extremely prevalent and a graveyard for failed companies. You cannot outsource the work to someone else for a long time.
 

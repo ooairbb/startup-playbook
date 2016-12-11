@@ -1,4 +1,4 @@
-### PART 3 - A Great Product
+# A Great Product
 
 Here is the secret to success: have a great product. This is the only thing all great companies have in common.
 
