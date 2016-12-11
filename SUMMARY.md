@@ -6,9 +6,9 @@
 * [3. A Great Product](part-3.md)
 * [Closing Thoughts](closing-thoughts.md)
 * [4. Great Execution](part-4a.md)
-* Part 4B
-* 4C
-* 4D
-* 4E
+* [4A. Growth](4a-execution---growth.md)
+* [4B. Focus & Intensity](part-4b.md)
+* [4B. Focus & Intensity](part-4b.md)
 * [4A. Execution - Growth](4a-execution---growth.md)
+* 4C
 
