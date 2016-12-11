@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [1. The Idea](chapter1.md)
 * [Closing Thoughts](closing-thoughts.md)
+* 3. A Great Product
 
