@@ -29,7 +29,9 @@ There may be a part II on how to scale a startup later—this mostly covers how 
 * [Competitors](http://playbook.samaltman.com/#competition)
 
 * [Making Money](http://playbook.samaltman.com/#money)
+
 * [Fundraising](http://playbook.samaltman.com/#fundraising)
+
 
 Your goal as a startup is to make something users love. If you do that, then you have to figure out how to get a lot more users. But this first part is critical—think about the really successful companies of today. They all started with a product that their early users loved so much they told other people about it. If you fail to do this, you will fail. If you deceive yourself and think your users love your product when they don’t, you will still fail.
 
@@ -49,71 +51,9 @@ To have a successful startup, you need: a great idea \(including a great market\
 
 ### 
 
-### Part 4C - Execution: Jobs of the CEO
+### 
 
-[Table of Contents](http://playbook.samaltman.com/#toc)
-
-Earlier I mentioned that the only universal job description of the CEO is to make sure the company wins. Although that’s true, I wanted to talk a little more specifically about how a CEO should spend his or her time.
-
-A CEO has to 1\) set the vision and strategy for the company, 2\) evangelize the company to everyone, 3\) hire and manage the team, especially in areas where you yourself have gaps 4\) raise money and make sure the company does not run out of money, and 5\) set the execution quality bar.
-
-In addition to these, find whatever parts of the business you love the most, and stay engaged there.
-
-As I mentioned at the beginning, it’s an intense job. If you are successful, it will take over your life to a degree you cannot imagine—the company will be on your mind all the time. Extreme focus and extreme intensity means it’s not the best choice for work-life balance. You can have one other big thing—your family, doing lots of triathlons, whatever—but probably not much more than that. You have to always be on, and there are a lot of decisions only you can make, no matter how good you get at delegation.
-
-You should aim to be super responsive to your team and the outside world, always be clear on the strategy and priorities, show up to everything important, and execute quickly \(especially when it comes to making decisions others are blocked on.\) You should also adopt a “do whatever it takes” attitude—there will be plenty of unpleasant schleps. If the team sees you doing these things, they will do them too.
-
-Managing your own psychology is both really hard and really important. It’s become cliché at this point, but it’s really true—the emotional highs and lows are very intense, and if you don’t figure out how to stay somewhat level through them, you’re going to struggle. Being a CEO is lonely. It’s important to have relationships with other CEOs you can call when everything is melting down \(one of the important accidental discoveries of YC was a way for founders to have peers.\)
-
-A successful startup takes a very long time—certainly much longer than most founders think at the outset. You cannot treat it as an all-nighter. You have to eat well, sleep well, and exercise. You have to spend time with your family and friends. You also need to work in an area you’re actually passionate about—nothing else will sustain you for ten years.
-
-Everything will feel broken all the time—the diversity and magnitude of the disasters will surprise you. Your job is to fix them with a smile on your face and reassure your team that it’ll all be ok. Usually things aren’t as bad as they seem, but sometimes they are in fact really bad. In any case, just keep going. Keep growing.
-
-The CEO doesn’t get to make excuses. Lots of bad and unfair things are going to happen. But don’t let yourself say, and certainly not to the team, “if only we had more money” or “if only we had another engineer”. Either figure out a way to make that happen, or figure out what to do without it. People who let themselves make a lot of excuses usually fail in general, and startup CEOs who do it almost always fail. Let yourself feel upset at the injustice for 1 minute, and then realize that it’s up to you to figure out a solution. Strive for people to say “X just somehow always gets things done” when talking about you.
-
-No first-time founder knows what he or she is doing. To the degree you understand that, and ask for help, you’ll be better off. It’s worth the time investment to learn to become a good leader and manager. The best way to do this is to find a mentor—reading books doesn’t seem to work as well.
-
-A surprising amount of our advice at YC is of the form “just ask them” or “just do it”. First-time founders think there must be some secret for when you need something from someone or you want to do some new thing. But again, startups are where tricks stop working. Just be direct, be willing to ask for what you want, and don’t be a jerk.
-
-It’s important that you distort reality for others but not yourself. You have to convince other people that your company is primed to be the most important startup of the decade, but you yourself should be paranoid about everything that could go wrong.
-
-Be persistent. Most founders give up too quickly or move on to the next product too quickly. If things generally aren’t going well, figure out what the root cause of the problem is and make sure you address that. A huge part of being a successful startup CEO is not giving up \(although you don’t want to be obstinate beyond all reason either—this is another apparent contradiction, and a hard judgment call to make.\)
-
-Be optimistic. Although it’s possible that there is a great pessimistic CEO somewhere out in the world, I haven’t met him or her yet. A belief that the future will be better, and that the company will play an important role in making the future better, is important for the CEO to have and to infect the rest of the company with. This is easy in theory and hard in the practical reality of short-term challenges. Don’t lose sight of the long-term vision, and trust that the day-to-day challenges will someday be forgotten and replaced by memories of the year-to-year progress.
-
-Among your most important jobs are defining the mission and defining the values. This can feel a little hokey, but it’s worth doing early on. Whatever you set at the beginning will usually still be in force years later, and as you grow, each new person needs to first buy in and then sell others on the mission and values of the company. So write your cultural values and mission down early.
-
-Another cliché that I think is worth repeating: Building a company is somewhat like building a religion. If people don’t connect what they’re doing day-to-day with a higher purpose they care about, they will not do a great job. I think Airbnb has done the best job at this in the YC network, and I highly recommend taking a look at their cultural values.
-
-One mistake that CEOs often make is to innovate in well-trodden areas of business instead of innovating in new products and solutions. For example, many founders think that they should spend their time discovering new ways to do HR, marketing, sales, financing, PR, etc. This is nearly always bad. Do what works in the well-established areas, and focus your creative energies on the product or service you’re building.
-
-### Part 4D - Execution: Hiring & Managing
-
-[Table of Contents](http://playbook.samaltman.com/#toc)
-
-Hiring is one of your most important jobs and the key to building a great company \(as opposed to a great product.\)
-
-My first piece of advice about hiring is don’t do it. The most successful companies we’ve worked with at YC have waited a relatively long time to start hiring employees. Employees are expensive. Employees add organizational complexity and communication overhead. There are things you can say to your cofounders that you cannot say with employees in the room. Employees also add inertia—it gets exponentially harder to change direction with more people on the team. Resist the urge to derive your self-worth from your number of employees.
-
-The best people have a lot of opportunities. They want to join rocketships. If you have nothing, it’s hard to hire them. Once you’re obviously winning, they’ll want to come join you.
-
-It’s worth repeating that great people have a lot of options, and you need great people to build a great company. Be generous with equity, trust, and responsibility. Be willing to go after people you don’t think you’ll be able to get. Remember that the kind of people you want to hire can start their own companies if they want.
-
-When you are in recruiting mode \(i.e., from when you get product-market fit to T-infinity\), you should spend about 25% of your time on it. At least one founder, usually the CEO, needs to get great at recruiting. It’s most CEOs’ number one activity by time. Everyone says that CEOs should spend a lot of their time recruiting, but in practice, none but the best do. There’s probably something to that.
-
-Don’t compromise on the quality of people you hire. Everyone knows this, and yet everyone compromises on this at some point during a desperate need. Everyone goes on to regret it, and it sometimes almost kills the company. Good and bad people are both infectious, and if you start with mediocre people, the average does not usually trend up. Companies that start off with mediocre early employees almost never recover. Trust your gut on people. If you have doubt, then the answer is no.
-
-Do not hire chronically negative people. They do not fit what an early-stage startup needs—the rest of the world will be predicting your demise every day, and the company needs to be united internally in its belief to the contrary.
-
-Value aptitude over experience for almost all roles. Look for raw intelligence and a track record of getting things done. Look for people you like—you’ll be spending a lot of time together and often in tense situations. For people you don’t already know, try to work on a project together before they join full-time.
-
-Invest in becoming a good manager. This is hard for most founders, and it’s definitely counterintuitive. But it’s important to get good at this. Find mentors that can help you here. If you do not get good at this, you will lose employees quickly, and if you don’t retain employees, you can be the best recruiter in the world and it still won’t matter. Most of the principles on being a good manager are well-covered, but the one that I never see discussed is “don’t go into hero mode”. Most first-time managers fall victim to this at some point and try to do everything themselves, and become unavailable to their staff. It usually ends in a meltdown. Resist all temptation to switch into this mode, and be willing to be late on projects to have a well-functioning team.
-
-Speaking of managing, try hard to have everyone in the same office. For some reason, startups always compromise on this. But nearly all of the most successful startups started off all together. I think remote work can work well for larger companies but it has not been a recipe for massive success for startups.
-
-Finally, fire quickly. Everyone knows this in principle and no one does it. But I feel I should say it anyway. Also, fire people who are toxic to the culture no matter how good they are at what they do. Culture is defined by who you hire, fire, and promote.
-
-[I wrote a blog post with more detail.](http://blog.samaltman.com/how-to-hire)
+### 
 
 ### Part 4E - Execution: Competitors
 
