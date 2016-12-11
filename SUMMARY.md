@@ -12,5 +12,6 @@
 * [4A. Execution - Growth](4a-execution---growth.md)
 * 4C
 * [4C. Jobs of the CEO](4c-jobs-of-the-ceo.md)
-* [Hiring & Managing](hiring--managing.md)
+* [4D. Hiring & Managing](hiring--managing.md)
+* [4E. Competitors](4e-competitors.md)
 
